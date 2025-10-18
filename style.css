@@ -1,0 +1,45 @@
+h1{
+    color:black;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: overline underline;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 3px;
+    margin-left: 20px;
+    line-height: 2;
+    background-color: lemonchiffon;
+}
+
+body{
+    background-color:aquamarine;
+}
+
+label{
+    color:white;
+    font-size: 15px;
+    line-height: 1.8;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+fieldset{
+    margin: 20px;
+    background-color: rgb(0, 79, 79);
+    opacity: 1;
+    border:4px groove;
+}
+
+legend{
+    color:azure;
+    background-color: rgb(0, 0, 0);
+    opacity: 1;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+form{
+    justify-content: center;
+    background-color: blueviolet;
+    align-items: center;
+    width:100%;
+}
